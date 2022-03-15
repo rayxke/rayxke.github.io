@@ -1,13 +1,17 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'EGSE'
 date: 2016-02-20 15:56:00
 categories: development
-tags: JavaScript AngularJS API Sass
+tags: C++ Arduino Embedded Aerospace
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+project_link: 'https://github.com/rayxke/EGSE'
+video_link: ''
+document_link: 'lol'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+button3_icon: 'file'
+button3_text: 'Read Paper'
+lead_text: 'Developed a Charging Station for a nano satellite'
 ---
