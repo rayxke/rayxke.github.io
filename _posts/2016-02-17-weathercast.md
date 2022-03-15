@@ -8,7 +8,7 @@ tags: C++ Arduino Embedded Aerospace
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'https://github.com/rayxke/EGSE'
 video_link: ''
-document_link: 'lol'
+document_link: './ECE4012Proposal.pdf'
 button_icon: 'github'
 button_text: 'Visit Project'
 button3_icon: 'file'
