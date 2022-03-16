@@ -5,7 +5,7 @@ title: 'LIDAR Detection Robot'
 date: 2016-02-20 14:15:00
 categories: development
 tags: C++ C# Embedded
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.jpeg'
 project_link: 'https://os.mbed.com/users/sventura3/code/LidarLitev2/wiki/LIDAR-Lite-v2-Blue-Label'
 video_link: 'https://youtu.be/p6Cz1O8JMG0'
 document_link: ''
