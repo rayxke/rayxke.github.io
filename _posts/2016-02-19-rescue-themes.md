@@ -11,7 +11,7 @@ video_link: 'https://www.youtube.com/watch?v=o50xb9mtHl4&feature=youtu.be'
 document_link: ''
 button_text: 'Visit Project'
 button_icon: 'github'
-button2_text: 'Watch Video'
+button2_text: 'Watch Demo'
 button2_icon: 'youtube'
 lead_text: 'Designed an Audio Recorder with an ARM Microprocessor'
 ---
