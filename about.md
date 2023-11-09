@@ -6,7 +6,7 @@ permalink: /about/
 ## About Me
 
 
-Hello, I'm kirito. I'm currently studying Computer Science at Georgia Tech. My concentration is in Interactive Intelligence. My interests include Music, AI, and Robotics. I enjoy developing creative solutions to technical challenges.
+Hello, I'm kirito. My interests include Music, AI, and Robotics. I enjoy developing creative solutions to technical challenges.
 
 
 ### Work Experience
